@@ -1,0 +1,42 @@
+p{
+  color: orange;
+  text-decoration: underline;
+}
+#image{
+  height:200;
+  width:200;
+}
+#emp{
+  color:red;
+}
+.emp{
+  color:grey;
+}
+ul:first-of-type li:nth-child(3){
+  color:orange;
+}
+#divcss{
+  margin:auto;
+  position: relative;
+  width:102px;
+  height: 100px;
+  background-color: red;
+}
+h2{
+  font-size:200px;
+  text-align: center;
+  margin:auto;
+  position: absolute;
+}
+/*h2{
+  font-size:200px;
+  text-align: center;
+  margin:auto;
+  font-family: monospace;
+  letter-spacing: -5px;
+  color: black;
+  text-transform: lowercase;
+  text-shadow:
+        5px 1px 0 white,
+        6px 2px 0 red;
+}*/
